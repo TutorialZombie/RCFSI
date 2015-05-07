@@ -3,3 +3,8 @@ main: me.TutorialZombie.RCFSI.Main
 version: 1.0
 description: Returns Spawner Type on Right Click
 author: TutorialZombie
+
+Permissions:
+  RCFSI:
+    description: Ability to use RCFSI
+    default: op
